@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryeder, I use they/them pronouns.
-- 👀 I’m interested in connection and community resilience.
-- 🌱 I’m currently learning instance maintenance within the SourceCred project.
+- 👀 I’m interested in connection and community resilience; not a dev but plan to learn Clarity ✨
+- 🌱 I’m previously an instance maintenance within the SourceCred project and currently a Stacks Foundation Resident.
 - 💞️ I’m looking to collaborate on concomittant financial & spiritual exultation
 - 📫 How to reach me: lifeisnotscripted@protonmail.com
 
